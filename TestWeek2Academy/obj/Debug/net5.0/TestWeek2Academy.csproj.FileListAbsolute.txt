@@ -1,0 +1,16 @@
+C:\Users\silvana.ombris\Desktop\TestWeek2Academy\TestWeek2Academy\bin\Debug\net5.0\TestWeek2Academy.exe
+C:\Users\silvana.ombris\Desktop\TestWeek2Academy\TestWeek2Academy\bin\Debug\net5.0\TestWeek2Academy.deps.json
+C:\Users\silvana.ombris\Desktop\TestWeek2Academy\TestWeek2Academy\bin\Debug\net5.0\TestWeek2Academy.runtimeconfig.json
+C:\Users\silvana.ombris\Desktop\TestWeek2Academy\TestWeek2Academy\bin\Debug\net5.0\TestWeek2Academy.runtimeconfig.dev.json
+C:\Users\silvana.ombris\Desktop\TestWeek2Academy\TestWeek2Academy\bin\Debug\net5.0\TestWeek2Academy.dll
+C:\Users\silvana.ombris\Desktop\TestWeek2Academy\TestWeek2Academy\bin\Debug\net5.0\ref\TestWeek2Academy.dll
+C:\Users\silvana.ombris\Desktop\TestWeek2Academy\TestWeek2Academy\bin\Debug\net5.0\TestWeek2Academy.pdb
+C:\Users\silvana.ombris\Desktop\TestWeek2Academy\TestWeek2Academy\obj\Debug\net5.0\TestWeek2Academy.csprojAssemblyReference.cache
+C:\Users\silvana.ombris\Desktop\TestWeek2Academy\TestWeek2Academy\obj\Debug\net5.0\TestWeek2Academy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silvana.ombris\Desktop\TestWeek2Academy\TestWeek2Academy\obj\Debug\net5.0\TestWeek2Academy.AssemblyInfoInputs.cache
+C:\Users\silvana.ombris\Desktop\TestWeek2Academy\TestWeek2Academy\obj\Debug\net5.0\TestWeek2Academy.AssemblyInfo.cs
+C:\Users\silvana.ombris\Desktop\TestWeek2Academy\TestWeek2Academy\obj\Debug\net5.0\TestWeek2Academy.csproj.CoreCompileInputs.cache
+C:\Users\silvana.ombris\Desktop\TestWeek2Academy\TestWeek2Academy\obj\Debug\net5.0\TestWeek2Academy.dll
+C:\Users\silvana.ombris\Desktop\TestWeek2Academy\TestWeek2Academy\obj\Debug\net5.0\ref\TestWeek2Academy.dll
+C:\Users\silvana.ombris\Desktop\TestWeek2Academy\TestWeek2Academy\obj\Debug\net5.0\TestWeek2Academy.pdb
+C:\Users\silvana.ombris\Desktop\TestWeek2Academy\TestWeek2Academy\obj\Debug\net5.0\TestWeek2Academy.genruntimeconfig.cache
